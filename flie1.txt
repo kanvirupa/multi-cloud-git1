@@ -1,0 +1,8 @@
+hi i am rupa 
+this is my first git repository
+git init
+git config --global user.name "rupa"
+git config --global user.email "rk@gmail.com"
+git config --list
+kkkkkkkkkkkkkkkkkkk
+kkkkkkkkkkkkkkkk
