@@ -1,2 +1,0 @@
-hi this is development branch file
-i want to merge this file to master branch
